@@ -1,0 +1,44 @@
+.navbar-brand{
+	height: 50px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	margin-left: 50px;
+	font: Georgia, "Times New Roman";
+	font-size: 28px;
+	font-weight: bold;
+	color: white;
+	background: #4aaaa5;
+	text-align: center;
+}
+
+.col-md-2, .checkbox+.checkbox, .radio+.radio {
+	margin-top: 10px !important;
+	margin-bottom: 10px !important;
+}
+
+/*.fx {
+  position: relative;
+  height: 400px;
+  margin: 0;
+  background: white;
+  background-image: url("../static/images/myFx.jpg");
+  background-attachment: fixed;
+  background-position: bottom center;
+  background-size: cover;
+}*/
+
+h1 {
+  margin-top: 100px;
+  font-size: 0.1rem;
+  background: white;
+  animation: title 1.2s forwards linear;
+  animation-delay: 1.2s;
+}
+
+p {
+  margin-top: 10px;
+  font-size: 0.1rem;
+  background: white;
+  animation: title 1.2s forwards linear;
+  animation-delay: 1.2s;
+}
