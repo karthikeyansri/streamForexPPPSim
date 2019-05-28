@@ -1,4 +1,4 @@
-# streamForexPPPSim
+# https://stream-forex-ppp-sim.herokuapp.com/
 Stream Forex simulation along with leaflet to show PPP in terms of BigMAC Index
 
 
