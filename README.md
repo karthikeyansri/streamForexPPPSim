@@ -2,7 +2,7 @@
 Stream Forex simulation along with leaflet to show PPP in terms of BigMAC Index
 
 
-Rugter's Data Analytics Bootcamp:  Jan -June 2019
+* Rugter's Data Analytics Bootcamp: * Jan -June 2019
 ## Project 2 - Stream Forex simulation along with leaflet to show PPP in terms of BigMAC Index
 ### Group Members: 
 + Babla Sawhney, 
