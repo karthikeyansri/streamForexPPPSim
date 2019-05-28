@@ -11,6 +11,7 @@ Rugter's Data Analytics Bootcamp:  Jan -June 2019
 + Matt Gilmore, 
 + Karthik Srinivasan
 --- 
+### Description: 
 + The Front End opens with a FOREX Tracking Page graphing Realtime data uploaded via Alpha-Vantage.  US Dollar, British Pound Sterling, Indian Rupee, and Japanese Yen.
 + Specified currencies are chosen and are shown as correlated again a simplified Purchasing Power Parity Index tool called the BIg Mac Index
 + The Big Mac Index is shown as a leaflet plot specified by the primary exchange location for the specified currency.
