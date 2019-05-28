@@ -93,7 +93,7 @@ var cities = [
     "Minimum_Wage_hour": 9.74,
     "Minimum_Wage_Min": 0.162333333,
     "Bigmac": 4.6419075,
-    "minute_mac": 27.773,
+    "minute_mac": 27.28905,
     "Lat": 55.378051,
     "Lon": -3.435973,
     "location": [55.378051,-3.435973]
@@ -113,7 +113,7 @@ var cities = [
     "Minimum_Wage_hour": 7.61,
     "Minimum_Wage_Min": 0.126833333,
     "Bigmac": 3.596458871,
-    "minute_mac": 24.5438,
+    "minute_mac": 20.33133,
     "Lat": 36.204824,
     "Lon": 138.252924,
     "location": [36.204824,138.252924]
@@ -123,7 +123,7 @@ var cities = [
     "Minimum_Wage_hour": 7.31,
     "Minimum_Wage_Min": 0.121833333,
     "Bigmac": 5.58,
-    "minute_mac": 41.2718,
+    "minute_mac": 29.51721,
     "Lat": 37.09024,
     "Lon": -95.712891,
     "location": [37.09024,-95.712891]
